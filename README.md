@@ -1,6 +1,3 @@
-﻿|![](Aspose.Words.4afca425-45f7-463d-b22d-5c808fe771d6.001.png)|![](Aspose.Words.4afca425-45f7-463d-b22d-5c808fe771d6.002.png)|
-| - | - |
-
 **Lab. Exercise (LE):** 
 
 
